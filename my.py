@@ -69,11 +69,10 @@ def buildblock(size):
 	return(out_str)
 
 def usage():
-print("           _     _             ")
-print("        __| | __| | ___  ___   ")
-print("       / _` |/ _` |/ _ \/ __|  ")
-print("      | (_| | (_| | (_) \__ \  ")
-print("       \__,_|\__,_|\___/|___/  ")
+print("________")
+print("--ddos--")
+print("________")
+
 
 
 
